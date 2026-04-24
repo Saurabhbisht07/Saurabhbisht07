@@ -77,6 +77,13 @@
 </p>
 
 ---
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Saurabh_Bisht16?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
 
 ## ✨ Fun Fact
 
