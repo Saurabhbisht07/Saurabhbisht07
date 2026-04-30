@@ -31,8 +31,8 @@
 | Project | Description | Tech Stack | GitHub |
 |--------|-------------|------------|--------|
 | **PrepX – AI Interview SaaS Platform** | AI-powered system generating dynamic interview questions from resumes with real-time feedback and performance evaluation | React, FastAPI, MongoDB, Firebase, Razorpay, OpenAI API | 🔗 Repo |
-| **Tourism Recommendation System** | ML-based system recommending personalized travel destinations using KNN & Decision Trees with Flask integration | Python, Pandas, Flask, HTML, CSS, JS | 🔗 Repo |
-| **TRENDIFY – AI E-Commerce Platform** | Full-stack clothing platform with authentication, payments & AI-based product recommendations using Gemini API | MERN, Firebase, Razorpay, AI Integration | 🔗 Repo |
+| **Intelligent Travel Planning , Routing System** | ML-based system recommending personalized travel destinations using KNN & Decision Trees with Flask integration | Python, Pandas, Flask, HTML, CSS, JS | 🔗 Repo |
+| **TRENDIFY – AI E-Commerce Platform** | Full-stack clothing platform with authentication, payments & AI-based product recommendations using Gemini API | MERN, Firebase, Razorpay, AI Integration \🔗 Repo |
 
 ---
 
@@ -55,18 +55,6 @@
 - Artificial Intelligence & Machine Learning  
 
 ---
-
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
