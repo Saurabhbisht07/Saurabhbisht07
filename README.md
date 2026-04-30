@@ -32,7 +32,7 @@
 |--------|-------------|------------|--------|
 | **PrepX – AI Interview SaaS Platform** | AI-powered system generating dynamic interview questions from resumes with real-time feedback and performance evaluation | React, FastAPI, MongoDB, Firebase, Razorpay, OpenAI API | 🔗 Repo |
 | **Intelligent Travel Planning , Routing System** | ML-based system recommending personalized travel destinations using KNN & Decision Trees with Flask integration | Python, Pandas, Flask, HTML, CSS, JS | 🔗 Repo |
-| **TRENDIFY – AI E-Commerce Platform** | Full-stack clothing platform with authentication, payments & AI-based product recommendations using Gemini API | MERN, Firebase, Razorpay, AI Integration \🔗 Repo |
+| **TRENDIFY – AI E-Commerce Platform** | Full-stack clothing platform with authentication, payments & AI-based product recommendations using Gemini API | MERN, Firebase, Razorpay, AI Integration \ |🔗 Repo |
 
 ---
 
@@ -81,10 +81,5 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ⭐️ **Thanks for visiting my profile!**
