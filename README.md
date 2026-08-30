@@ -11,10 +11,10 @@
 
 - 🎓 B.Tech CSE @ Graphic Era Hill University (2023–2027) | CGPA: **8.73**
 - 💻 Full Stack Developer with strong backend + system design understanding
-- 🧠 Solved **350+ DSA problems** across platforms
+- 🧠 Solved **450+ DSA problems** across platforms
 - 🚀 Passionate about **AI-powered applications & scalable systems**
-- 🌱 Currently exploring **Next.js, TypeScript & AI integrations**
-- 🎯 Actively looking for **internship opportunities**
+- 🌱 Currently exploring **Gen AI & AI integrations**
+- 🎯 Actively looking for **opportunities to implement knowledge for production**
 
 ---
 
@@ -40,9 +40,9 @@
 ## 🏆 Achievements
 
 - 🥇 Student of the Year (Class 12)
-- 📊 Solved **350+ DSA Problems**
-- 🧠 Completed **Machine Learning by Andrew Ng (Coursera)**
-- 🏆 Participated in **4+ Hackathons**
+- 📊 Solved **450+ DSA Problems**
+- 🧠 Completed **Machine Learning by Andrew Ng (Coursera),AWS Cloud,Database management(NPTEL),GEN AI(Udemy)**
+- 🏆 Participated in **5+ Hackathons**
 - 👨‍💻 Led team-based development projects
 
 ---
