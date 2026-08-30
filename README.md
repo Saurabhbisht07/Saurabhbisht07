@@ -30,9 +30,10 @@
 
 | Project | Description | Tech Stack | GitHub |
 |--------|-------------|------------|--------|
-| **PrepX – AI Interview SaaS Platform** | AI-powered system generating dynamic interview questions from resumes with real-time feedback and performance evaluation | React, FastAPI, MongoDB, Firebase, Razorpay, OpenAI API | 🔗 Repo |
-| **Intelligent Travel Planning , Routing System** | ML-based system recommending personalized travel destinations using KNN & Decision Trees with Flask integration | Python, Pandas, Flask, HTML, CSS, JS | 🔗 Repo |
-| **TRENDIFY – AI E-Commerce Platform** | Full-stack clothing platform with authentication, payments & AI-based product recommendations using Gemini API | MERN, Firebase, Razorpay, AI Integration \ |🔗 Repo |
+| **UPI Offline Mesh – Secure Distributed Settlement System** | Offline payment simulation using BLE mesh networking, hybrid RSA-2048 + AES-256-GCM encryption, Redis idempotency, and MongoDB transactional settlement | Node.js, Express, MongoDB, Redis, React, Socket.IO, Docker | 🔗 [Repo](https://github.com/Saurabhbisht07/UPI-Offline-Mesh-Secure-Distribut-Settlement-System) |
+| **PrepX – AI Interview SaaS Platform** | AI-powered system generating dynamic interview questions from resumes with real-time feedback and performance evaluation | React, FastAPI, MongoDB, Firebase, Razorpay, OpenAI API | 🔗 [Repo](https://github.com/Saurabhbisht07/PrepX-AI) |
+| **Intelligent Travel Planning & Routing System** | ML-based system recommending personalized travel destinations using KNN & Decision Trees with Flask integration | Python, Pandas, Flask, C++, Dijkstra, A* | 🔗 [Repo](https://github.com/Saurabhbisht07/Intelligent-Travel-Planning-System) |
+| **BakScript Compiler** | Custom C-based programming language featuring lexical analysis, recursive-descent parsing, AST generation, semantic analysis, and interpretation | C, Compiler Design, Lexer, Parser, AST | 🔗 [Repo](https://github.com/Saurabhbisht07/Bakscript-Compiller-) |
 
 ---
 
